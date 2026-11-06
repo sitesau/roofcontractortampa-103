@@ -1,0 +1,22 @@
+{
+  "wheel_id": 791,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-103",
+  "project": "roof-repairs-tampa-common-mistakes-5e3a6684562d517cd45599f4b904",
+  "parent_t1_ref": "roofcontractortampa-151",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repairs tampa common mistakes",
+  "intended_url": "https://aumedia.neocities.org/roof-repairs-tampa-common-mistakes-5e3a6684562d517cd45599f4b904/",
+  "tier": "T2",
+  "writeback_nonce": "536063ed4dce09be",
+  "links": [
+    {
+      "target_url": "http://roof-repairs-tampa-81ea036860b50d95c2fe53eedaea8eca6b7448ea.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://roof-repairs-tampa-81ea036860b50d95c2fe53eedaea8eca6b7448ea.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
